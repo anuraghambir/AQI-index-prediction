@@ -1,2 +1,2 @@
 # AQI-index-prediction
-Prediction of AQI index quality for Fairbanks, Alaska
+Prediction of AQI for Fairbanks, Alaska
